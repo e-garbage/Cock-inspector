@@ -1,3 +1,5 @@
+![alt text](06cd562d2fe446d5e46a35356f46aa36e47be79acfd1a1d6297329b8f1b6d291_1.jpg)
+
 # Cock-inspector
 Cock inspector is a mini script based project that generate markdown audits of debian based server. Very useful when you forgot what you did on a machine like dumb bitch like me
 
